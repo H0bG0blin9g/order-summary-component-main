@@ -74,7 +74,7 @@ I need to focus on coding in an orderly fashion to ensure that the cascading eff
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/H0bG0blin9g)
+- Frontend Mentor - [@H0bG0blin9g](https://www.frontendmentor.io/profile/H0bG0blin9g)
 
 # ###########################
 
