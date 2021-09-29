@@ -1,3 +1,85 @@
+# Frontend Mentor - Order summary card solution
+
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
+
+**Note: Delete this note and update the table of contents based on what sections you keep.**
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- See hover states for interactive elements
+
+### Screenshot
+
+![](./screenshot.jpg)
+
+Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+
+Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+
+Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+
+**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+
+### Links
+
+- Solution URL: [Add solution URL here](https://github.com/H0bG0blin9g/order-summary-component-main)
+- Live Site URL: [Add live site URL here](https://h0bg0blin9g.github.io/order-summary-component-main/)
+
+## My process
+
+### Built with
+
+- HTML5
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+
+
+### What I learned
+
+I was confused with the accessibility against my first solution namely "landmarks". Im not entirely sure what they are, but apparently it is neccessary to define atleast one main role attribute against an element. Granted I have made use of divs instead of the semantic names like article (I never really got around to grasping the semantic names and have been using divs everywhere), etc, so im inclined to think the issue lies there.  I ended up adding the 'role="main"' against the main div for the card which seemed to solve the issue.
+
+Otherwise, this is my first frontend mentor challenge. This took longer than I was anticipating. Im sure there are simpler ways to achieve what I did and probably with less code and more elegence, however I am surprised at how much of a learning experience this has been and look forward to more challenges.
+
+I initially thought I would be able to solve the challenge in about an hour (given I had seen a youtube solution take about 45 mins), however I gave myself a max of 3 hours as I was not focusing on the challenge 100% of the time.  It ended up taking most of the day, I would estimate a total of 5 hours.  This is probably because I did not start tackling the challenge in an orderly fashion, so restarted after some time as i was having some css issues.  Also nitty gritty details towards the end would take alot of time because i did not know how to solve them and had to guess or find out how others solved the issue.  Particularly vertically centering the card on the screen, and also having the background image show correctly for both mobile and desktop.  I also spent alot of time on the colour of the hover state of the primary button as it was not in the style guide, however i had completly forgotten about the opacity property and ended up wasting alot of time.
+
+I realised that the order in which you tackle the challenge can go a long way in maintaining your sanity - too much jumping back and forth made it confusing for me to fix some css issues, so in the end I started again and tried do things in a logical order as opposed to randomly targeting elements on the design.
+
+
+### Continued development
+
+I need to brush up on flex box and practice more.  As well as positioning and z-index.
+
+I need to review semantic html.
+
+I need to work on my time estimations for the tasks based on my current ability not percieved ability.
+
+I need to focus on coding in an orderly fashion to ensure that the cascading effect of css (i.e. specificity) can easily be managed.
+
+## Author
+
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/H0bG0blin9g)
+
+# ###########################
+
+
+
 # Frontend Mentor - Order summary card
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
